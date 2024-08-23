@@ -1,0 +1,27 @@
+[INFO] 03:35:36:908 General_logger/(4275:4275): Hola! Soy un log
+[INFO] 03:40:06:308 General_logger/(4580:4580): Hola! Soy un log
+[INFO] 03:41:45:752 General_logger/(4910:4910): Hola! Soy un log
+[INFO] 03:41:45:755 General_logger/(4910:4910): EL ip es: <127.0.0.1>
+ EL puerto es: <4444> 
+ EL valor es: <valor>
+[INFO] 03:43:40:739 General_logger/(4910:4910): Mensaje -> fsdflkmsdfklsdf
+[INFO] 03:43:44:009 General_logger/(4910:4910): Mensaje -> madnasdlkand
+[INFO] 03:43:45:556 General_logger/(4910:4910): Mensaje -> lkansdklanflkansdf
+[INFO] 03:49:03:531 General_logger/(5250:5250): Hola! Soy un log
+[INFO] 03:49:03:644 General_logger/(5250:5250): EL ip es: <127.0.0.1>
+ EL puerto es: <4444> 
+ EL valor es: <valor>
+[INFO] 03:49:11:194 General_logger/(5250:5250): Mensaje -> askdljmañdkja
+[INFO] 03:49:12:721 General_logger/(5250:5250): Mensaje -> asñdkjañsdkjañsdkj
+[INFO] 03:49:13:764 General_logger/(5250:5250): Mensaje -> laksjdñaklsdj
+[INFO] 13:38:09:907 General_logger/(4862:4862): Hola! Soy un log
+[INFO] 13:38:09:910 General_logger/(4862:4862): EL ip es: <127.0.0.1>
+ EL puerto es: <4444> 
+ EL valor es: <valor>
+[INFO] 13:38:13:877 General_logger/(4862:4862): Mensaje -> slkfjsdkfjslkdf
+[INFO] 13:38:15:831 General_logger/(4862:4862): Mensaje -> sñdlfkñlsdkflñsdfñl
+[INFO] 13:51:17:883 General_logger/(6120:6120): Hola! Soy un log
+[INFO] 13:51:17:887 General_logger/(6120:6120): EL ip es: <127.0.0.1>
+ EL puerto es: <4444> 
+ EL valor es: <valor>
+[INFO] 13:51:25:898 General_logger/(6120:6120): Mensaje -> añsldkjañlsd
